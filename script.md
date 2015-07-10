@@ -7,7 +7,7 @@ So without further ado here's a poem ....
 
 ## The sheep
 
-*The sheep is alone.  
+*The tiger is alone.  
 A single white dot,  
 in fields green.*
 
