@@ -29,4 +29,4 @@ in white winter snow.*
 
 ## Conflicts please
 
-I expect this line to be a conflict.
+I expect this line to be a conflict, because we're all editing it but I'm the only one saying "Paddington".
