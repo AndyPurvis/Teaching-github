@@ -29,4 +29,4 @@ in white winter snow.*
 
 ## Conflicts please
 
-I expect this line to be a conflict, because here I'm saying Globigerina
+I expect this line to no longer be a conflict, because here I'm saying Globigerina and I got rid of Paddington
